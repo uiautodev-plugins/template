@@ -1,0 +1,7 @@
+{
+    "$schema": "http://localhost:33299/plugin.schema.json",
+    "name": "待修改",
+    "version": "0.1.0",
+    "description": "这里要修改",
+    "main": "index.html"
+}
