@@ -1,6 +1,6 @@
 # template
 
-uiauto.dev 插件模板项目。使用时先 fork 本项目，再在 fork 后的仓库中初始化。
+uiauto.dev desktop & server的插件模板项目。方便快速创建插件。
 
 ## 使用步骤
 
