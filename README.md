@@ -12,7 +12,8 @@ uiauto.dev desktop & server的插件模板项目。方便快速创建插件。
    git clone 你的仓库地址 ~/.uiautodev/plugins/你的插件名
    ```
 
-3. 用 Claude 打开该项目，说 **"我要初始化项目"**，按 Claude.md 中的流程完成初始化
+3. 启动uiautodev desktop或server版，启动后才方便调试
+4. 用 Claude 打开该项目，说 **"我要初始化项目"**，按 Claude.md 中的流程完成初始化
 
 ### 入门教程
 
